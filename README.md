@@ -34,7 +34,7 @@ This project focuses on clean UI design, client-side validation, and a smooth us
 ## Screenshots 🖼️
 
 ### Registration Form UI
-<img src="https://via.placeholder.com/600x350?text=Registration+Form+UI" width="600"/>
+<img src="Front-pic.png" width="600"/>
 
 
 ---
